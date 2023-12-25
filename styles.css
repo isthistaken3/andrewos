@@ -12,4 +12,9 @@ header {
 
 .align {
   font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.roboto {
+  font-famil: 'Roboto', sans-serif;
 }
