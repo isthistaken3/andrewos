@@ -1,6 +1,7 @@
 header {
   font-family: 'Roboto', sans-serif;
   text-align: center;
+  font-size: 30px;
 }
 
 .images {
@@ -13,5 +14,5 @@ header {
 .align {
   font-family: 'Roboto', sans-serif;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
 }
