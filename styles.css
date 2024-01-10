@@ -32,3 +32,8 @@ header {
 body {
   background-color: #1CB669;
 }
+
+.points {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
